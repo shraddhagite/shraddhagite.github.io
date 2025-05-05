@@ -1,0 +1,26 @@
+[
+    {
+        "company": "Fusion Practices",
+        "role": "Consultant",
+        "period": "Aug 2022 - Jan 2024",
+        "location": "Pune",
+        "domain": "Database",
+        "achievements": [
+            "Worked as a consultant for Fusion Practices, focusing on database management and optimization.",
+            "Led a team of developers in creating a custom database solution for a client, improving data retrieval speed by 40%.",
+            "Implemented best practices for database security and backup, ensuring data integrity."
+        ]
+    },
+    {
+        "company": "Ingram Micro",
+        "role": "Software Engineer - .NET Developer",
+        "period": "June 2019 - Aug 2022",
+        "location": "Mumbai",
+        "domain": "WebShop Backend",
+        "achievements": [
+            "Developed a WebShop backend for Ingram Micro, a leading IT distributor, using .NET Core and SQL Server.",
+            "Implemented RESTful APIs for seamless integration with front-end applications.",
+            "Optimized database queries, improving response time by 30%."
+        ]
+    }
+]
